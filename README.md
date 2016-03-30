@@ -1,2 +1,2 @@
-# sequence-generator-
+# sequence-generator
 Sequence Generator for node app 
